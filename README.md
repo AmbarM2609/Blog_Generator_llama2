@@ -26,7 +26,7 @@ pip install streamlit langchain ctransformers
 3. **Interact with the App**: Open the provided URL in your web browser. Enter your blog topic, specify the word count, select the target audience, and click on the "Generate" button to get your blog post.
 
 ## Code Overview
-The core functionality is defined in the `app.py` file:
+The core functionality is defined in the `Blog_Generation` file:
 
 ### Importing Libraries
 ```python
