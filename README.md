@@ -4,7 +4,7 @@ Welcome to the Blog Generation app powered by LLama 2. This Streamlit applicatio
 ## Features
 - **User Input**: Easily enter your desired blog topic and customize the word count.
 - **Audience Selection**: Choose from different audience profiles, such as Researchers, Data Scientists, and Common People.
-- **Real-time Blog Generation**: Get a blog generated on the fly based on your input and preferences.
+- **Real-time Blog Generation**: Get a blog generated based on your input preference
 
 ## Requirements
 To run this application, ensure you have the following dependencies installed:
